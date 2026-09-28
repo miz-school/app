@@ -1,0 +1,16 @@
+{
+  "name": "Miz School",
+  "short_name": "Miz School",
+  "description": "School app for staff, parents and students — attendance, homework, fees, results, transport and messages.",
+  "start_url": "./#/app/dashboard",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F5F7FA",
+  "theme_color": "#0B2345",
+  "lang": "en-IN",
+  "icons": [
+    { "src": "app-icon.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
